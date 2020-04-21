@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+  <section name="Nails">
+    <entree>
+      <item>Hands</item>
+      <price>4.95</price>
+    </entree>
+    <entree>
+      <item>Feet</item>
+      <price>7.50</price>
+    </entree>
+  </section>
+  <section name="Hair">
+    <entree>
+      <item>Cut and Finish</item>
+      <price>55.00</price>
+    </entree>
+    <entree>
+      <item>Blowdry</item>
+      <price>29.50</price>
+    </entree>
+    <entree>
+      <item>colour</item>
+      <price>15.00</price>
+    </entree>
+  </section>
+  <section name="Skin">
+    <entree>
+      <item>Antioxidant Anti-Ageing Facial</item>
+      <price>75.00</price>
+    </entree>
+    <entree>
+      <item>O2 Lift</item>
+      <price>90.99</price>
+    </entree>
+  </section>
+  <section name="Products">
+    <entree>
+      <item>Shapoo XYZ for all types of hair </item>
+      <price>15.99</price>
+    </entree>
+    <entree>
+      <item>Conditioner XYZ for all types of hair</item>
+      <price>15.99</price>
+    </entree>
+    <entree>
+      <item>Hair Oil Repair</item>
+      <price>9.79</price>
+    </entree>
+  </section>
+  <section name="Massage">
+    <entree>
+      <item>Swedish massage</item>
+      <price>80.00</price>
+    </entree>
+    <entree>
+      <item>Signature massage</item>
+      <price>90.00</price>
+    </entree>
+    <entree>
+      <item>Back massage</item>
+      <price>85.00</price>
+    </entree>
+  </section>
+</menu>
