@@ -1,0 +1,19 @@
+{
+  "name": "joice_p_g_m_2017070_ca2",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joice-Palloma/Joice_P_G_M_2017070_CA2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joice-Palloma/Joice_P_G_M_2017070_CA2/issues"
+  },
+  "homepage": "https://github.com/Joice-Palloma/Joice_P_G_M_2017070_CA2#readme"
+}
