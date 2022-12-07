@@ -18,10 +18,10 @@
   "homepage": "https://github.com/Joice-Palloma/Joice_P_G_M_2017070_CA2#readme",
   "dependencies": {
     "body-parse": "^0.1.0",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
     "mongodb": "^3.5.6",
